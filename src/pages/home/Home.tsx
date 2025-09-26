@@ -19,6 +19,7 @@ const Home = () => {
       >
         <p>"From the orion stars"</p>
         <p>Sneha</p>
+        <p> </p>
         <p>Click on your Photo</p>
       </motion.div>
       {/* Mobile */}
